@@ -1,0 +1,65 @@
+{
+  "attack": {
+    "normal": 67343,
+    "neptune": 41214,
+    "satan": 3633,
+    "ipsweep": 3599,
+    "portsweep": 2931,
+    "smurf": 2646,
+    "nmap": 1493,
+    "back": 956,
+    "teardrop": 892,
+    "warezclient": 890,
+    "pod": 201,
+    "guess_passwd": 53,
+    "buffer_overflow": 30,
+    "warezmaster": 20,
+    "land": 18,
+    "imap": 11,
+    "rootkit": 10,
+    "loadmodule": 9,
+    "ftp_write": 8,
+    "multihop": 7,
+    "phf": 4,
+    "perl": 3,
+    "spy": 2
+  },
+  "land": {
+    "0": 125948,
+    "1": 25
+  },
+  "wrongfragment": {
+    "0": 124883,
+    "3": 884,
+    "1": 206
+  },
+  "loggedin": {
+    "0": 76121,
+    "1": 49852
+  },
+  "rootshell": {
+    "0": 125804,
+    "1": 169
+  },
+  "suattempted": {
+    "0": 125893,
+    "2": 59,
+    "1": 21
+  },
+  "numshells": {
+    "0": 125926,
+    "1": 42,
+    "2": 5
+  },
+  "numoutboundcmds": {
+    "0": 125973
+  },
+  "ishostlogin": {
+    "0": 125972,
+    "1": 1
+  },
+  "isguestlogin": {
+    "0": 124786,
+    "1": 1187
+  }
+}

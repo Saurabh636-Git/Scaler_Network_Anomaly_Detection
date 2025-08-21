@@ -1,0 +1,5 @@
+column,missing,n_unique,top_value,top_freq,top_pct
+service,0,70,http,40338,32.02
+attack,0,23,normal,67343,53.46
+flag,0,11,SF,74945,59.49
+protocoltype,0,3,tcp,102689,81.52
